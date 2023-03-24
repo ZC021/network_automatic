@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 sw, router 12312
 123213
+=======
+SW,Router
+Engineer 
+
+123123123123
+>>>>>>> engineer
